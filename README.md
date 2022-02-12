@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI + Aerospace 
 - 🌱 I’m currently learning AI, DL, and computer vision 
 
-- 📫 How to reach me https://www.linkedin.com/in/mohamedahmedx2/
+- 📫 You can find me on https://www.linkedin.com/in/mohamedahmedx2/
 
 <!---
 MightyStud/MightyStud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
