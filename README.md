@@ -1,5 +1,6 @@
-
- Contact me on [Linkedin](https://www.linkedin.com/in/mohamedahmedx2/)
+# Hello,
+## You can contact me on [Linkedin](https://www.linkedin.com/in/mohamedahmedx2/) .
+###### MightyStud is a short for Mighty Student :eyes:
 
 
 <!---
