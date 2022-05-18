@@ -1,5 +1,8 @@
 # Hello,
 ## You can contact me on [Linkedin](https://www.linkedin.com/in/mohamedahmedx2/) .
+
+I created my own Data Scientist Roadmap available on [Trello](https://trello.com/b/ZkeWHhrt/data-scientist-roadmap-2022)
+
 ###### MightyStud is a short for Mighty Student :eyes:
 
 
