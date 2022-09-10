@@ -1,4 +1,7 @@
-# Hello,
+# Hello 👋
+
+I'm a Data scientist specialised in industry 4.0 currently looking for full time opportunities
+
 ## You can contact me on [Linkedin](https://www.linkedin.com/in/mohamedahmedx2/) .
 
 ###### MightyStud is a short for Mighty Student :eyes:
