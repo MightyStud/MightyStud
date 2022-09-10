@@ -3,9 +3,7 @@
 I'm a Data scientist specialised in industry 4.0, currently looking for full time opportunities.
 Ex-Aerospace engineer.
 
-##  [Linkedin](https://www.linkedin.com/in/mohamedahmedx2).
-
-###### MightyStud is a short for Mighty Student :eyes:
+###### *MightyStud is a short for Mighty Student :eyes: Drop me the newest machine learning meme @ [Linkedin](https://www.linkedin.com/in/mohamedahmedx2).*
 
 
 <!---
