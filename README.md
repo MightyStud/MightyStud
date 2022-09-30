@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm a Data scientist generalist with a lot of interests in the data domain. Currently looking for full time opportunities.
+I'm a Data scientist generalist with a lot of interests in the data domains. Currently looking for full time opportunities.
 Ex-Aerospace engineer.
 
 ###### *MightyStud is a short for Mighty Student :eyes: Drop me the newest machine learning meme @ [Linkedin](https://www.linkedin.com/in/mohamedahmedx2).*
