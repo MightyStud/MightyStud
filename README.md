@@ -1,6 +1,6 @@
 # Hello 👋
 
-I'm a Data scientist with a lot of interests in the different data domains. Currently looking for full time opportunities.
+I'm a ML Engineer with a lot of interests in different data domains. Currently looking for full time opportunities.
 Follow me on Youtube [Data Science Diary](https://www.youtube.com/channel/UCUHNVBJymCQeQ_qnDDyoD_w), I make educational videos, share my journey in the field and give awful life tips.
 
 ###### *MightyStud is a short for Mighty Student :eyes: Drop me the newest machine learning meme @ [Linkedin](https://www.linkedin.com/in/mohamedahmedx2) or [Facebook](https://www.facebook.com/DataScienceDiary).*
