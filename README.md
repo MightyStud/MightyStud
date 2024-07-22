@@ -1,6 +1,6 @@
 ## Notice of Account Change
 
-Please be advised that this GitHub account is no longer in use. For all future updates and projects, kindly refer to our new GitHub account at [M-Ali-ML](https://github.com/m-ali-ml), which supersedes the current one.
+Please be advised that this GitHub account is no longer in use. For all future updates and projects, kindly refer to the new GitHub account at [M-Ali-ML](https://github.com/m-ali-ml), which supersedes the current one.
 
 Thank you for your understanding and cooperation.
 
